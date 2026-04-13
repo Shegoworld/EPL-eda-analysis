@@ -17,5 +17,4 @@ Exploratory data analysis of Premier League player statistics using Python.
 - Matplotlib
 
 ## Key Findings
-[Write 2-3 things you actually found interesting from the data]
 I'm a big football fan so working with this dataset as a beginner resonated more with me. 
